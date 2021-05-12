@@ -27,13 +27,14 @@ sites:
 status-website:
   theme: night
   cname: stats.bitdevil2k16.club
+  favicon: https://github.com/BitDEVil2K16-Club/uptime/raw/master/assets/649340-1605296562.png
   logoUrl: https://github.com/BitDEVil2K16-Club/uptime/raw/master/assets/649340-1605296562.png
   name: Service Status - BitDEVil2K16
   introTitle: "Service Status"
   introMessage: "**BitDEVil2K16 Club** Services / Status Übersicht"
   navbar:
     - title: Status
-      href: /
+      href: https://stats.bitdevil2k16.club
     - title: BitDEVil2K16 Club
       href: https://BitDEVil2K16.club
 
