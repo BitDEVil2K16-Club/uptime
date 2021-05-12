@@ -35,7 +35,6 @@ i18n:
   url: "URL"
   status: "Status"
   history: "History"
-  uptime: "Uptime"
   up: "🟩 Up"
   degraded: "🟨 Degraded"
   down: "🟥 Down"
