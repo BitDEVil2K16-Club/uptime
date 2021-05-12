@@ -4,27 +4,33 @@ repo: uptime # The name of this repository
 sites:
   - name: BitDEVil2K16 Club
     url: https://bitdevil2k16.club
-    icon: https://bitdevil2k16.club/favicon.ico
+    icon: https://bitdevil2k16.club/images/style-5/favicon.ico
   - name: RageServer-V (GTA-V)
     url: $SECURE
-    icon: https://bitdevil2k16.club/favicon.ico
+    icon: https://datacenter.bitdevil2k16.club/favicon/apple-icon.png
   - name: Liberty GameServer
     url: $LIBERTY
-    icon: https://bitdevil2k16.club/favicon.ico
+    icon: https://datacenter.bitdevil2k16.club/favicon/apple-icon.png
   - name: WIKI (RSV)
     url: https://wiki.bitdevil2k16.club
     icon: https://wiki.bitdevil2k16.club/favicon.ico
   - name: Datacenter (IFPS)
     url: https://datacenter.bitdevil2k16.club
-    icon: https://datacenter.bitdevil2k16.club/favicon.ico
+    icon: https://datacenter.bitdevil2k16.club/favicon/apple-icon.png
+  - name: Freelancer Board
+    url: https://work.bitdevil2k16.club
+    icon: https://work.bitdevil2k16.club/assets/blueline/img/favicon.ico
+  - name: Radio Server
+    url: https://radio.bitdevil2k16.club
+    icon: https://radio.bitdevil2k16.club/images/favicon.ico
 
 status-website:
   theme: night
   cname: stats.bitdevil2k16.club
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/BitDEVil2K16-Club/uptime/raw/master/assets/649340-1605296562.png
   name: Service Status - BitDEVil2K16
   introTitle: "Service Status"
-  introMessage: 
+  introMessage: "**BitDEVil2K16 Club** Services / Status Übersicht"
   navbar:
     - title: Status
       href: /
