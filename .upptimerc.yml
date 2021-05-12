@@ -21,7 +21,7 @@ sites:
     url: https://work.bitdevil2k16.club
     icon: https://work.bitdevil2k16.club/assets/blueline/img/favicon.ico
   - name: Radio Server
-    url: http://radio.bitdevil2k16.club:8000/index.html
+    url: $RADIO_SERVER
     icon: https://radio.bitdevil2k16.club/images/favicon.ico
 
 status-website:
