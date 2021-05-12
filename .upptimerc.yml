@@ -1,4 +1,3 @@
-# Change these first
 owner: BitDEVil2K16-Club # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
@@ -8,15 +7,14 @@ sites:
   - name: RageServer-V (GTA-V)
     url: $SECURE
   - name: Liberty GameServer
-    url: $SECURE2
-  - name: DownTest Seite
-    url: https://thissitedoesnotexist.koj.co
+    url: $LIBERTY
+  - name: WIKI (RSV)
+    url: https://wiki.bitdevil2k16.club
+  - name: Datacenter (IFPS)
+    url: https://datacenter.bitdevil2k16.club
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: stats.bitdevil2k16.club
-  # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status - BitDEVil2K16
   introTitle: "**Upptime** ist eine open-source uptime monitor und status seite, powered entirely by GitHub."
@@ -26,6 +24,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
