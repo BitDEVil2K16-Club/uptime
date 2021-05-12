@@ -14,13 +14,14 @@ sites:
     url: https://datacenter.bitdevil2k16.club
 
 status-website:
+  theme: dark
   cname: stats.bitdevil2k16.club
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status - BitDEVil2K16
-  introTitle: "**Upptime** ist eine open-source uptime monitor und status seite, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Service Status"
+  introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: BitDEVil2K16 Club
+      href: https://BitDEVil2K16.club
