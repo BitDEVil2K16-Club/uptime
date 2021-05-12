@@ -85,5 +85,5 @@ i18n:
   startsAt: "Starten am"
   duration: "Dauer"
   durationMin: "$DURATION minuten"
-  incidentCompleted: "Abgeschlossen"
-  incidentScheduled: "Geplante"
+  incidentCompleted: "Vorfall Abgeschlossen"
+  incidentScheduled: "Vorfall Geplant"
