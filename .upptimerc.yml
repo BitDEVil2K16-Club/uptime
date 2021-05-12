@@ -6,9 +6,9 @@ sites:
   - name: BitDEVil2K16 Club
     url: https://bitdevil2k16.club
   - name: RageServer-V (GTA-V)
-    url: $secure
+    url: $SECURE
   - name: Liberty GameServer
-    url: $secure2
+    url: $SECURE2
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
