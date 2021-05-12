@@ -14,7 +14,7 @@ sites:
     url: https://datacenter.bitdevil2k16.club
 
 status-website:
-  theme: dark
+  theme: night
   cname: stats.bitdevil2k16.club
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status - BitDEVil2K16
