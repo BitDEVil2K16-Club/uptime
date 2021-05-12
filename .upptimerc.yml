@@ -30,46 +30,61 @@ status-website:
       href: /
     - title: BitDEVil2K16 Club
       href: https://BitDEVil2K16.club
-      
+
 i18n:
-activeIncidents: "Aktive Vorfälle"
-allSystemsOperational: Alle Systeme sind betriebsbereit
-incidentReport: "Vorfall #$NUMBER report →"
-incidentTitle: Vorfall $NUMBER Details
-incidentDetails: Vorfall Details
-incidentFixed: Behoben
-incidentOngoing: Laufend
-incidentOpenedAt: "Geöffnet am"
-incidentClosedAt: Geschlossen am
-incidentSubscribe: Abbonieren für Updates
-incidentViewOnGitHub: Auf GitHub anschauen
-incidentCommentSummary: Gepostet am $DATE von $AUTHOR
-incidentBack: ← zurück
-pastIncidents: "Letzte Vorfälle"
-pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-liveStatus: Live Status
-overallUptime: "Gesamtverfügbarkeit: $UPTIME"
-overallUptimeTitle: Overall uptime
-averageResponseTime: "Durchschnitliche Antwortzeit: $TIMEms"
-averageResponseTimeTitle: Average response
-sevelDayResponseTime: 7-tage antwortzeit
-responseTimeMs: Antwortzeit (ms)
-up: Up
-down: Down
-degraded: Verschlechtert
-ms: ms
-loading: Loading
-navGitHub: GitHub
-footer: Die Seite ist [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-errorText: Versuche es in wenigen minuten erneut.
-errorHome: Zur Startseite
-pastScheduledMaintenance: Vergangene geplante Wartungen
-scheduledMaintenance: Geplante Wartung
-scheduledMaintenanceSummaryStarted: Gestartet am $DATE für $DURATION minuten
-scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-startedAt: Gestartet am
-startsAt: Starten am
-duration: Duration
-durationMin: $DURATION minuten
-incidentCompleted: Abgeschlossen
-incidentScheduled: Geplante
+  url: "URL"
+  status: "Status"
+  history: "History"
+  uptime: "Uptime"
+  up: "🟩 Up"
+  degraded: "🟨 Degraded"
+  down: "🟥 Down"
+  responseTimeGraphAlt: "Antwortzeit graph"
+  ms: "ms"
+  responseTime: "Antwortzeit"
+  responseTimeDay: "24-hour response time"
+  responseTimeWeek: "7-day response time"
+  responseTimeMonth: "30-day response time"
+  responseTimeYear: "1-year response time"
+  uptime: "Allzeitverfügbarkeit"
+  uptimeDay: "24-Stunden verfügbarkeit"
+  uptimeWeek: "7-Tage verfügbarkeit"
+  uptimeMonth: "30-Tage verfügbarkeit"
+  uptimeYear: "1-Jahr verfügbarkeit"
+  liveStatus: "Live Status"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Alle Systeme sind betriebsbereit"
+  degradedPerformance: "🟨 Beeinträchtigte Leistung"
+  completeOutage: "🟥 Kompletter Ausfall"
+  partialOutage: "🟧 Teilausfall"
+  activeIncidents: "Aktive Vorfälle"
+  incidentReport: "Vorfall #$NUMBER report →"
+  incidentTitle: "Vorfall $NUMBER Details"
+  incidentDetails: "Vorfall Details"
+  incidentFixed: "Behoben"
+  incidentOngoing: "Laufend"
+  incidentOpenedAt: "Geöffnet am"
+  incidentClosedAt: "Geschlossen am"
+  incidentSubscribe: "Abbonieren für Updates"
+  incidentViewOnGitHub: "Auf GitHub anschauen"
+  incidentCommentSummary: "Gepostet am $DATE von $AUTHOR"
+  incidentBack: "← zurück"
+  pastIncidents: "Letzte Vorfälle"
+  pastIncidentsResolved: "Resolved in $MINUTES minutes with $POSTS posts"
+  overallUptime: "Gesamtverfügbarkeit: $UPTIME"
+  overallUptimeTitle: "Gesamtverfügbarkeit"
+  averageResponseTime: "Durchschnitliche Antwortzeit: $TIMEms"
+  averageResponseTimeTitle: "Durchschnittliche Antwort"
+  sevelDayResponseTime: "7-tage antwortzeit"
+  responseTimeMs: "Antwortzeit (ms)"
+  footer: "Die Seite ist [open source]($REPO), powered by [Upptime](https://upptime.js.org)"
+  pastScheduledMaintenance: "Vergangene geplante Wartungen"
+  scheduledMaintenance: "Geplante Wartung"
+  scheduledMaintenanceSummaryStarted: "Gestartet am $DATE für $DURATION minuten"
+  scheduledMaintenanceSummaryStarts: "Starts at $DATE for $DURATION minutes"
+  startedAt: "Gestartet am"
+  startsAt: "Starten am"
+  duration: "Dauer"
+  durationMin: "$DURATION minuten"
+  incidentCompleted: "Abgeschlossen"
+  incidentScheduled: "Geplante"
