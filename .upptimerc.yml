@@ -11,15 +11,9 @@ sites:
   - name: Liberty GameServer
     url: $LIBERTY
     icon: https://datacenter.bitdevil2k16.club/favicon/apple-icon.png
-  - name: WIKI (RSV)
-    url: https://wiki.bitdevil2k16.club
-    icon: https://wiki.bitdevil2k16.club/favicon.ico
   - name: Datacenter (IFPS)
     url: https://datacenter.bitdevil2k16.club
     icon: https://datacenter.bitdevil2k16.club/favicon/apple-icon.png
-  - name: Freelancer Board
-    url: https://work.bitdevil2k16.club
-    icon: https://work.bitdevil2k16.club/assets/blueline/img/favicon.ico
   - name: Radio Server
     url: $RADIO_SERVER
     icon: https://radio.bitdevil2k16.club/images/favicon.ico
