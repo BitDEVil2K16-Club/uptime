@@ -5,16 +5,16 @@
     "icon": "https://bitdevil2k16.club/images/style-5/favicon.ico",
     "slug": "bit-de-vil2-k16-club",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.79%",
-    "time": 705,
-    "timeDay": 542,
-    "timeWeek": 553,
-    "timeMonth": 598,
-    "timeYear": 705,
+    "uptimeYear": "99.80%",
+    "time": 706,
+    "timeDay": 769,
+    "timeWeek": 596,
+    "timeMonth": 599,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2021-09-07": 20,
       "2021-07-08": 28,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 307,
-    "timeWeek": 400,
+    "time": 439,
+    "timeDay": 522,
+    "timeWeek": 429,
     "timeMonth": 443,
-    "timeYear": 438,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2021-05-12": 2
     }
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 127,
-    "timeDay": 93,
-    "timeWeek": 121,
+    "time": 128,
+    "timeDay": 163,
+    "timeWeek": 131,
     "timeMonth": 132,
-    "timeYear": 127,
+    "timeYear": 128,
     "dailyMinutesDown": {
       "2021-05-12": 14
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 442,
-    "timeWeek": 575,
+    "time": 620,
+    "timeDay": 667,
+    "timeWeek": 611,
     "timeMonth": 673,
-    "timeYear": 619,
+    "timeYear": 620,
     "dailyMinutesDown": {}
   },
   {
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 255,
-    "timeWeek": 324,
+    "time": 311,
+    "timeDay": 367,
+    "timeWeek": 336,
     "timeMonth": 333,
-    "timeYear": 310,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2021-05-12": 6
     }
