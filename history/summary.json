@@ -4,10 +4,10 @@
     "url": "https://bitdevil2k16.club",
     "icon": "https://bitdevil2k16.club/images/style-5/favicon.ico",
     "slug": "bit-de-vil2-k16-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
     "time": 727,
@@ -16,6 +16,7 @@
     "timeMonth": 795,
     "timeYear": 727,
     "dailyMinutesDown": {
+      "2021-10-07": 1,
       "2021-09-07": 20,
       "2021-07-08": 28,
       "2021-06-03": 205,
@@ -28,10 +29,10 @@
     "url": "$SECURE",
     "icon": "https://datacenter.bitdevil2k16.club/favicon/apple-icon.png",
     "slug": "rage-server-v-gta-v",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
@@ -40,6 +41,7 @@
     "timeMonth": 1060,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2021-10-07": 1,
       "2021-05-12": 2
     }
   },
@@ -48,10 +50,10 @@
     "url": "$LIBERTY",
     "icon": "https://datacenter.bitdevil2k16.club/favicon/apple-icon.png",
     "slug": "liberty-game-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 227,
@@ -60,6 +62,7 @@
     "timeMonth": 671,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2021-10-07": 1,
       "2021-05-12": 14
     }
   },
@@ -68,9 +71,9 @@
     "url": "https://datacenter.bitdevil2k16.club",
     "icon": "https://datacenter.bitdevil2k16.club/favicon/apple-icon.png",
     "slug": "datacenter-ifps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,16 +82,18 @@
     "timeWeek": 746,
     "timeMonth": 689,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-07": 0
+    }
   },
   {
     "name": "Radio Server",
     "url": "$RADIO_SERVER",
     "icon": "https://radio.bitdevil2k16.club/images/favicon.ico",
     "slug": "radio-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +103,7 @@
     "timeMonth": 311,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2021-10-07": 0,
       "2021-05-12": 6
     }
   }
