@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 736,
-    "timeDay": 811,
-    "timeWeek": 868,
+    "timeDay": 795,
+    "timeWeek": 857,
     "timeMonth": 779,
     "timeYear": 736,
     "dailyMinutesDown": {
@@ -37,81 +37,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 761,
-    "timeDay": 1239,
-    "timeWeek": 1208,
-    "timeMonth": 1078,
-    "timeYear": 761,
+    "time": 763,
+    "timeDay": 1248,
+    "timeWeek": 1214,
+    "timeMonth": 1084,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2021-11-07": 16,
       "2021-11-05": 17,
       "2021-10-07": 257,
       "2021-05-12": 2
-    }
-  },
-  {
-    "name": "Liberty GameServer",
-    "url": "$LIBERTY",
-    "icon": "https://datacenter.bitdevil2k16.club/favicon/apple-icon.png",
-    "slug": "liberty-game-server",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 450,
-    "timeDay": 901,
-    "timeWeek": 826,
-    "timeMonth": 794,
-    "timeYear": 450,
-    "dailyMinutesDown": {
-      "2021-11-07": 16,
-      "2021-10-13": 17,
-      "2021-10-07": 257,
-      "2021-05-12": 14
-    }
-  },
-  {
-    "name": "Datacenter (IFPS)",
-    "url": "https://datacenter.bitdevil2k16.club",
-    "icon": "https://datacenter.bitdevil2k16.club/favicon/apple-icon.png",
-    "slug": "datacenter-ifps",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 616,
-    "timeDay": 647,
-    "timeWeek": 626,
-    "timeMonth": 612,
-    "timeYear": 616,
-    "dailyMinutesDown": {
-      "2021-10-07": 176
-    }
-  },
-  {
-    "name": "Radio Server",
-    "url": "$RADIO_SERVER",
-    "icon": "https://radio.bitdevil2k16.club/images/favicon.ico",
-    "slug": "radio-server",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 368,
-    "timeDay": 8040,
-    "timeWeek": 2257,
-    "timeMonth": 796,
-    "timeYear": 368,
-    "dailyMinutesDown": {
-      "2022-01-25": 0,
-      "2021-10-07": 175,
-      "2021-05-12": 6
     }
   }
 ]
