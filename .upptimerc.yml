@@ -8,15 +8,6 @@ sites:
   - name: RageServer-V (GTA-V)
     url: $SECURE
     icon: https://datacenter.bitdevil2k16.club/favicon/apple-icon.png
-  - name: Liberty GameServer
-    url: $LIBERTY
-    icon: https://datacenter.bitdevil2k16.club/favicon/apple-icon.png
-  - name: Datacenter (IFPS)
-    url: https://datacenter.bitdevil2k16.club
-    icon: https://datacenter.bitdevil2k16.club/favicon/apple-icon.png
-  - name: Radio Server
-    url: $RADIO_SERVER
-    icon: https://radio.bitdevil2k16.club/images/favicon.ico
 
 status-website:
   theme: night
