@@ -8,12 +8,12 @@
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 824,
-    "timeDay": 809,
-    "timeWeek": 785,
-    "timeMonth": 781,
+    "timeDay": 804,
+    "timeWeek": 817,
+    "timeMonth": 780,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2022-09-06": 15,
@@ -31,8 +31,7 @@
       "2022-02-28": 15,
       "2022-01-27": 15,
       "2021-11-07": 16,
-      "2021-11-05": 19,
-      "2021-10-07": 176
+      "2021-11-05": 19
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://datacenter.bitdevil2k16.club/favicon/apple-icon.png",
     "slug": "rage-server-v-gta-v",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 815,
-    "timeDay": 910,
-    "timeWeek": 780,
-    "timeMonth": 775,
-    "timeYear": 924,
+    "timeDay": 939,
+    "timeWeek": 822,
+    "timeMonth": 769,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2022-08-11": 26,
       "2022-08-01": 140,
@@ -66,8 +65,7 @@
       "2022-03-13": 58,
       "2022-03-09": 22,
       "2021-11-07": 16,
-      "2021-11-05": 17,
-      "2021-10-07": 257
+      "2021-11-05": 17
     }
   }
 ]
