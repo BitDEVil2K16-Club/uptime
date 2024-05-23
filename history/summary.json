@@ -6,9 +6,9 @@
     "slug": "bit-de-vil2-k16-club",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 719,
     "timeDay": 675,
@@ -16,7 +16,7 @@
     "timeMonth": 783,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2024-05-23": 16,
+      "2024-05-23": 28,
       "2024-04-20": 15,
       "2023-11-29": 18,
       "2023-11-04": 23,
@@ -30,11 +30,11 @@
     "url": "https://bitdevil2k16.net",
     "icon": "https://bitdevil2k16.club/images/style-5/favicon.ico",
     "slug": "bit-de-vil2-k16-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 627,
     "timeDay": 14521,
@@ -42,7 +42,7 @@
     "timeMonth": 1335,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-05-23": 11
+      "2024-05-23": 3
     }
   },
   {
@@ -51,18 +51,18 @@
     "icon": "https://bitdevil2k16.club/images/style-5/favicon.ico",
     "slug": "ic-bit",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 557,
     "timeDay": 622,
     "timeWeek": 495,
     "timeMonth": 534,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2024-05-23": 13
+      "2024-05-23": 25
     }
   },
   {
@@ -72,9 +72,9 @@
     "slug": "rage-server-v-gta-v",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 769,
     "timeDay": 483,
@@ -82,7 +82,7 @@
     "timeMonth": 663,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2024-05-23": 11,
+      "2024-05-23": 24,
       "2023-11-05": 24,
       "2023-11-04": 23,
       "2023-10-18": 28,
