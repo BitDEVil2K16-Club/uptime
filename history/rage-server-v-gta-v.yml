@@ -1,7 +1,7 @@
 url: $SECURE
-status: down
-code: 525
-responseTime: 23026
-lastUpdated: 2024-06-02T10:36:21.537Z
+status: up
+code: 200
+responseTime: 3728
+lastUpdated: 2024-06-02T10:43:32.799Z
 startTime: 2021-05-12T01:19:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
