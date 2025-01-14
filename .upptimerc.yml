@@ -16,7 +16,7 @@ status-website:
   introMessage: "**BitDEVil2K16 Club** Services / Status Übersicht"
   navbar:
     - title: Status Bit
-      href: https://stats.icbit.win
+      href: https://status.icbit.win
     - title: BitDEVil2K16 Club
       href: https://BitDEVil2K16.club
 
